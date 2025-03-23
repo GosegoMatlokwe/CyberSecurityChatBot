@@ -1,0 +1,7 @@
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe.config
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.exe
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\bin\Debug\CyberSecurityChatBot.pdb
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.AssemblyReference.cache
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.csproj.CoreCompileInputs.cache
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.exe
+C:\Users\goseg\OneDrive\Documents\GitHub\CyberSecurityChatBot\CyberSecurityChatBot\obj\Debug\CyberSecurityChatBot.pdb
